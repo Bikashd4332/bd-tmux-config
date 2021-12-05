@@ -1,0 +1,9 @@
+[submodule "plugins/tmux-gruvbox"]
+	path = plugins/tmux-gruvbox
+	url = https://github.com/egel/tmux-gruvbox
+[submodule "plugins/vim-tmux-navigator"]
+	path = plugins/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
